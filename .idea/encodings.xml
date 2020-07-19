@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/EurekaClient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaClient/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaConsumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaConsumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Feign/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hystrix/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NativeConfigClient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NativeConfigClient/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NativeConfigServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NativeConfigServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RestTemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RestTemplate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ribbon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ribbon/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Zuul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
